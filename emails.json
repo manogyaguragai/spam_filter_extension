@@ -1,0 +1,254 @@
+{
+  "emails": [
+    {
+      "id": 1,
+      "content": "Congratulations! You've won our mobile recharge promotion! Click here now to claim your prize! Limited time offer!",
+      "expected_classification": "spam"
+    },
+    {
+      "id": 2,
+      "content": "Meeting scheduled for tomorrow at 2 PM in the conference room.",
+      "expected_classification": "normal"
+    },
+    {
+      "id": 3,
+      "content": "Make money today! Amazing deal at [Nepali website name] - Don't miss out!",
+      "expected_classification": "spam"
+    },
+    {
+      "id": 4,
+      "content": "Monthly project report attached. Please review and provide feedback.",
+      "expected_classification": "normal"
+    },
+    {
+      "id": 5,
+      "content": "Free mobile! You're our lucky winner. Claim your prize at www.xyz.info NOW!",
+      "expected_classification": "spam"
+    },
+    {
+      "id": 6,
+      "content": "Urgent! Your account has been locked. Click here to unlock immediately.",
+      "expected_classification": "spam"
+    },
+    {
+      "id": 7,
+      "content": "Invitation to the company picnic on Sunday. Details attached.",
+      "expected_classification": "normal"
+    },
+    {
+      "id": 8,
+      "content": "Exclusive offer! Get 50% off your first order on [Nepali e-commerce website].",
+      "expected_classification": "normal" 
+    },
+    {
+      "id": 9,
+      "content": "New product launch tomorrow! Join us for the live stream at 10 AM.",
+      "expected_classification": "normal"
+    },
+    {
+      "id": 10,
+      "content": "You have a new message from [Nepali social media platform].",
+      "expected_classification": "normal"
+    },
+    {
+      "id": 11,
+      "content": "Free vacation to the Maldives! Enter our lucky draw now!",
+      "expected_classification": "spam"
+    },
+    {
+      "id": 12,
+      "content": "Reminder: Submit your expense reports by the end of the month.",
+      "expected_classification": "normal"
+    },
+    {
+      "id": 13,
+      "content": "Job opening for Software Engineer at [Nepali IT company]. Apply now!",
+      "expected_classification": "normal"
+    },
+    {
+      "id": 14,
+      "content": "Your password has been reset. If you did not request this, please contact us immediately.",
+      "expected_classification": "normal" 
+    },
+    {
+      "id": 15,
+      "content": "Win a new car! Participate in our daily raffle.",
+      "expected_classification": "spam"
+    },
+    {
+      "id": 16,
+      "content": "Increase your online sales with our targeted advertising solutions.",
+      "expected_classification": "spam"
+    },
+    {
+      "id": 17,
+      "content": "Team meeting canceled due to unforeseen circumstances.",
+      "expected_classification": "normal"
+    },
+    {
+      "id": 18,
+      "content": "Welcome to [Nepali online learning platform]! Your free trial has begun.",
+      "expected_classification": "normal"
+    },
+    {
+      "id": 19,
+      "content": "Urgent! Your account will be suspended if you don't verify your email address.",
+      "expected_classification": "spam"
+    },
+    {
+      "id": 20,
+      "content": "Order confirmation for your recent purchase from [Nepali online store].",
+      "expected_classification": "normal"
+    },
+    {
+      "id": 21,
+      "content": "You've been selected for a free consultation with a financial advisor.",
+      "expected_classification": "spam"
+    },
+    {
+      "id": 22,
+      "content": "Flight confirmation for your upcoming trip to [Nepali destination].",
+      "expected_classification": "normal"
+    },
+    {
+      "id": 23,
+      "content": "Limited-time offer! Get 20% off all [Nepali brand] products.",
+      "expected_classification": "normal"
+    },
+    {
+      "id": 24,
+      "content": "Your order has been shipped! Track your package here.",
+      "expected_classification": "normal"
+    },
+    {
+      "id": 25,
+      "content": "Click here to claim your free cryptocurrency bonus!",
+      "expected_classification": "spam"
+    },
+    {
+      "id": 26,
+      "content": "Increase your website traffic with our SEO services.",
+      "expected_classification": "spam"
+    },
+    {
+      "id": 27,
+      "content": "Meeting minutes from yesterday's discussion are now available.",
+      "expected_classification": "normal"
+    },
+    {
+      "id": 28,
+      "content": "Reminder: Submit your timesheet by 5 PM today.",
+      "expected_classification": "normal"
+    },
+    {
+      "id": 29,
+      "content": "Congratulations! You've won a year's supply of coffee!",
+      "expected_classification": "spam"
+    },
+    {
+      "id": 30,
+      "content": "Invitation to the company holiday party on December 20th.",
+      "expected_classification": "normal"
+    },
+    {
+      "id": 31,
+      "content": "Invest in our new cryptocurrency and earn huge returns!",
+      "expected_classification": "spam"
+    },
+    {
+      "id": 32,
+      "content": "Welcome to the team, [New employee name]! We're excited to have you onboard.",
+      "expected_classification": "normal"
+    },
+    {
+      "id": 33,
+      "content": "Your online order has been delayed due to unforeseen circumstances.",
+      "expected_classification": "normal"
+    },
+    {
+      "id": 34,
+      "content": "You have a new message on [Nepali messaging app].",
+      "expected_classification": "normal"
+    },
+    {
+      "id": 35,
+      "content": "Don't miss out on our exclusive early bird discounts!",
+      "expected_classification": "spam"
+    },
+    {
+      "id": 36,
+      "content": "Get rich quick! Our secret investment strategy will make you a millionaire.",
+      "expected_classification": "spam"
+    },
+    {
+      "id": 37,
+      "content": "Project deadline extended to next Friday.",
+      "expected_classification": "normal"
+    },
+    {
+      "id": 38,
+      "content": "Thank you for your recent purchase. Your feedback is important to us.",
+      "expected_classification": "normal"
+    },
+    {
+      "id": 39,
+      "content": "Your bank account has been credited with your monthly salary.",
+      "expected_classification": "normal"
+    },
+    {
+      "id": 40,
+      "content": "Claim your free gift card now! Limited time offer!",
+      "expected_classification": "spam"
+    },
+    {
+      "id": 41,
+      "content": "Increase your social media followers with our proven methods.",
+      "expected_classification": "spam"
+    },
+    {
+      "id": 42,
+      "content": "Reminder: Team building event tomorrow at [Location].",
+      "expected_classification": "normal"
+    },
+    {
+      "id": 43,
+      "content": "Your appointment with [Doctor name] is scheduled for tomorrow at 3 PM.",
+      "expected_classification": "normal"
+    },
+    {
+      "id": 44,
+      "content": "You have a new voicemail.",
+      "expected_classification": "normal"
+    },
+    {
+      "id": 45,
+      "content": "Exclusive offer! Get 2 free tickets to the concert!",
+      "expected_classification": "spam"
+    },
+    {
+      "id": 46,
+      "content": "Welcome aboard! Your flight is now boarding at gate 23.",
+      "expected_classification": "normal"
+    },
+    {
+      "id": 47,
+      "content": "Your application for the Kathmandu Marathon has been successfully registered.",
+      "expected_classification": "normal"
+    },
+    {
+      "id": 48,
+      "content": "Congratulations! You've won a brand-new motorcycle! Claim it now at fraudsite.nepal",
+      "expected_classification": "spam"
+    },
+    {
+      "id": 49,
+      "content": "The Nepali movie 'Pashupati Prasad 2' is releasing this Friday. Book your tickets now!",
+      "expected_classification": "normal"
+    },
+    {
+      "id": 50,
+      "content": "Earn NPR 1,00,000 per week from home! Sign up at scam.nepal.now",
+      "expected_classification": "spam"
+    }
+  ]
+}
